@@ -76,7 +76,7 @@
 
 1\. 确保已安装 Python 3.x
 
-2\. 双击运行 `math\_game.py`
+2\. 双击运行 `math\_game.exe`
 
 3\. 按屏幕提示选择难度并答题
 
@@ -86,7 +86,7 @@
 
 
 
-\- `math\_game.py` - 主程序文件
+\- `math\_game.exe` - 主程序文件
 
 \- `logs/` - 日志文件夹（自动生成）
 
@@ -152,7 +152,7 @@
 
 1\. Make sure Python 3.x is installed
 
-2\. Run `math\_game.py`
+2\. Run `math\_game.exe`
 
 3\. Choose difficulty and answer questions
 
@@ -162,7 +162,7 @@
 
 
 
-\- `math\_game.py` - Main program file
+\- `math\_game.exe` - Main program file
 
 \- `logs/` - Log folder (auto-generated)
 
