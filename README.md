@@ -22,6 +22,8 @@
 
 📁 文件大小：约 12 MB
 
+🔑 卡密密码：12345
+
 ========================================
 
 【English Version】
@@ -43,6 +45,8 @@ Grade 3 Math Training Camp is a free math training game designed specifically fo
 Download math_game.exe, double-click to run. No software installation required!
 
 📁 File Size: Approximately 12 MB
+
+🔑 Card Password: 12345
 
 ========================================
 作者 / Author: LZH团队
